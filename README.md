@@ -1,1 +1,0 @@
-# csdr-devops-metadata
