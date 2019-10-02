@@ -4,6 +4,11 @@
             "name": "1.0.0-SNAPSHOT.0",
             "releaseDate": "01/10/2019 20:37",
             "envTarget": "DEV"
+        },
+        {
+            "name": "1.0.0-SNAPSHOT.1",
+            "releaseDate": "02/10/2019 07:33",
+            "envTarget": "DEV"
         }
     ]
 }
