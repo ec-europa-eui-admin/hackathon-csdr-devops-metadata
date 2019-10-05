@@ -34,6 +34,13 @@
             "infos": "1.0.0-SNAPSHOT.4 - 05/10/2019 13:14",
             "packages": {},
             "envTarget": "DEV"
+        },
+        {
+            "name": "1.0.0-SNAPSHOT.5",
+            "releaseDate": "05/10/2019 13:16",
+            "infos": "1.0.0-SNAPSHOT.5 - 05/10/2019 13:16",
+            "packages": {},
+            "envTarget": "DEV"
         }
     ]
 }
