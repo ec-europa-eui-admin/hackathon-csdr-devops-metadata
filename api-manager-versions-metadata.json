@@ -32,7 +32,11 @@
         },
         {
             "name": "1.0.0-SNAPSHOT.6",
+<<<<<<< HEAD
             "releaseDate": "05/10/2019 13:29",
+=======
+            "releaseDate": "05/10/2019 13:28",
+>>>>>>> ceb935f347504e745f4e86ab8090d05e52955304
             "envTarget": "DEV"
         }
     ]
