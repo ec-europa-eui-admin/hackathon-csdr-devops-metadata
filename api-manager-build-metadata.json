@@ -48,6 +48,13 @@
             "releaseDate": "05/10/2019 13:28",
             "packages": {},
             "envTarget": "DEV"
+        },
+        {
+            "name": "1.0.0-SNAPSHOT.6",
+            "releaseDate": "05/10/2019 16:50",
+            "infos": "1.0.0-SNAPSHOT.6 - 05/10/2019 16:50",
+            "packages": {},
+            "envTarget": "DEV"
         }
     ]
 }
