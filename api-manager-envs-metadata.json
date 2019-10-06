@@ -1,8 +1,8 @@
 {
     "DEV": {
-        "version": "1.0.0-SNAPSHOT.14",
-        "releaseDate": "06/10/2019 13:06",
-        "infos": "1.0.0-SNAPSHOT.14 - 06/10/2019 13:06",
+        "version": "1.0.0-SNAPSHOT.15",
+        "releaseDate": "06/10/2019 13:26",
+        "infos": "1.0.0-SNAPSHOT.15 - 06/10/2019 13:26",
         "dependencies": {}
     }
 }
